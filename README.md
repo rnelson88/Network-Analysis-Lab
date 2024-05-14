@@ -1,1 +1,0 @@
-In this lab, we'll use Wireshark to understand the importance of secure communication. We'll see how unencrypted traffic can reveal passwords and other data, highlighting the need for secure protocols like HTTPS.
